@@ -1,0 +1,11 @@
+{
+  "type": "cubiestoolkit:firing",
+  "category": "blocks",
+  "ingredient": {
+    "item": "cobblestone"
+  },
+  "result": {
+    "id": "stone"
+  },
+  "experience": 0.1
+}
